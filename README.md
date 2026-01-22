@@ -80,8 +80,8 @@ The primary objectives of this project are:
 ---
 
 ## Contributors
-- **Mansi Nandkar**
-- **Veer Sanghavi**
-- **Tejaswini Kulkarni**
-- **Bennet Meneze**
+- Mansi Nandkar
+- Veer Sanghavi
+- Tejaswini Kulkarni
+- Bennet Meneze
 
